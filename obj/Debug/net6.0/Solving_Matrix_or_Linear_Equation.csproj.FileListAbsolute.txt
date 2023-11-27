@@ -13,3 +13,18 @@ D:\cs roadmap\10. Colleague Materials\Year(2)term(1)\Solving_Matrix_or_Linear_Eq
 D:\cs roadmap\10. Colleague Materials\Year(2)term(1)\Solving_Matrix_or_Linear_Equation\obj\Debug\net6.0\Solving_Matrix_or_Linear_Equation.pdb
 D:\cs roadmap\10. Colleague Materials\Year(2)term(1)\Solving_Matrix_or_Linear_Equation\obj\Debug\net6.0\Solving_Matrix_or_Linear_Equation.genruntimeconfig.cache
 D:\cs roadmap\10. Colleague Materials\Year(2)term(1)\Solving_Matrix_or_Linear_Equation\obj\Debug\net6.0\ref\Solving_Matrix_or_Linear_Equation.dll
+D:\cs roadmap\8. Colleague Materials\year-2-term-1\linear algebra\Solving_Matrix_or_Linear_Equation\bin\Debug\net6.0\Solving_Matrix_or_Linear_Equation.exe
+D:\cs roadmap\8. Colleague Materials\year-2-term-1\linear algebra\Solving_Matrix_or_Linear_Equation\bin\Debug\net6.0\Solving_Matrix_or_Linear_Equation.deps.json
+D:\cs roadmap\8. Colleague Materials\year-2-term-1\linear algebra\Solving_Matrix_or_Linear_Equation\bin\Debug\net6.0\Solving_Matrix_or_Linear_Equation.runtimeconfig.json
+D:\cs roadmap\8. Colleague Materials\year-2-term-1\linear algebra\Solving_Matrix_or_Linear_Equation\bin\Debug\net6.0\Solving_Matrix_or_Linear_Equation.dll
+D:\cs roadmap\8. Colleague Materials\year-2-term-1\linear algebra\Solving_Matrix_or_Linear_Equation\bin\Debug\net6.0\Solving_Matrix_or_Linear_Equation.pdb
+D:\cs roadmap\8. Colleague Materials\year-2-term-1\linear algebra\Solving_Matrix_or_Linear_Equation\obj\Debug\net6.0\Solving_Matrix_or_Linear_Equation.csproj.AssemblyReference.cache
+D:\cs roadmap\8. Colleague Materials\year-2-term-1\linear algebra\Solving_Matrix_or_Linear_Equation\obj\Debug\net6.0\Solving_Matrix_or_Linear_Equation.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs roadmap\8. Colleague Materials\year-2-term-1\linear algebra\Solving_Matrix_or_Linear_Equation\obj\Debug\net6.0\Solving_Matrix_or_Linear_Equation.AssemblyInfoInputs.cache
+D:\cs roadmap\8. Colleague Materials\year-2-term-1\linear algebra\Solving_Matrix_or_Linear_Equation\obj\Debug\net6.0\Solving_Matrix_or_Linear_Equation.AssemblyInfo.cs
+D:\cs roadmap\8. Colleague Materials\year-2-term-1\linear algebra\Solving_Matrix_or_Linear_Equation\obj\Debug\net6.0\Solving_Matrix_or_Linear_Equation.csproj.CoreCompileInputs.cache
+D:\cs roadmap\8. Colleague Materials\year-2-term-1\linear algebra\Solving_Matrix_or_Linear_Equation\obj\Debug\net6.0\Solving_Matrix_or_Linear_Equation.dll
+D:\cs roadmap\8. Colleague Materials\year-2-term-1\linear algebra\Solving_Matrix_or_Linear_Equation\obj\Debug\net6.0\refint\Solving_Matrix_or_Linear_Equation.dll
+D:\cs roadmap\8. Colleague Materials\year-2-term-1\linear algebra\Solving_Matrix_or_Linear_Equation\obj\Debug\net6.0\Solving_Matrix_or_Linear_Equation.pdb
+D:\cs roadmap\8. Colleague Materials\year-2-term-1\linear algebra\Solving_Matrix_or_Linear_Equation\obj\Debug\net6.0\Solving_Matrix_or_Linear_Equation.genruntimeconfig.cache
+D:\cs roadmap\8. Colleague Materials\year-2-term-1\linear algebra\Solving_Matrix_or_Linear_Equation\obj\Debug\net6.0\ref\Solving_Matrix_or_Linear_Equation.dll

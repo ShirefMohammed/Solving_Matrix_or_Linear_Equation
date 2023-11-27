@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cs roadmap\\10. Colleague Materials\\Year(2)term(1)\\Solving_Matrix_or_Linear_Equation\\Solving_Matrix_or_Linear_Equation.csproj": {}
+    "D:\\cs roadmap\\8. Colleague Materials\\year-2-term-1\\linear algebra\\Solving_Matrix_or_Linear_Equation\\Solving_Matrix_or_Linear_Equation.csproj": {}
   },
   "projects": {
-    "D:\\cs roadmap\\10. Colleague Materials\\Year(2)term(1)\\Solving_Matrix_or_Linear_Equation\\Solving_Matrix_or_Linear_Equation.csproj": {
+    "D:\\cs roadmap\\8. Colleague Materials\\year-2-term-1\\linear algebra\\Solving_Matrix_or_Linear_Equation\\Solving_Matrix_or_Linear_Equation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cs roadmap\\10. Colleague Materials\\Year(2)term(1)\\Solving_Matrix_or_Linear_Equation\\Solving_Matrix_or_Linear_Equation.csproj",
+        "projectUniqueName": "D:\\cs roadmap\\8. Colleague Materials\\year-2-term-1\\linear algebra\\Solving_Matrix_or_Linear_Equation\\Solving_Matrix_or_Linear_Equation.csproj",
         "projectName": "Solving_Matrix_or_Linear_Equation",
-        "projectPath": "D:\\cs roadmap\\10. Colleague Materials\\Year(2)term(1)\\Solving_Matrix_or_Linear_Equation\\Solving_Matrix_or_Linear_Equation.csproj",
+        "projectPath": "D:\\cs roadmap\\8. Colleague Materials\\year-2-term-1\\linear algebra\\Solving_Matrix_or_Linear_Equation\\Solving_Matrix_or_Linear_Equation.csproj",
         "packagesPath": "C:\\Users\\LAPTOP WORLD\\.nuget\\packages\\",
-        "outputPath": "D:\\cs roadmap\\10. Colleague Materials\\Year(2)term(1)\\Solving_Matrix_or_Linear_Equation\\obj\\",
+        "outputPath": "D:\\cs roadmap\\8. Colleague Materials\\year-2-term-1\\linear algebra\\Solving_Matrix_or_Linear_Equation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
